@@ -2,7 +2,11 @@
 
 OBJETIVOS
 
-
+Aprender a identificar la relación que exiete entre el voltaje, la corriente y la resistencia, de esta manera podremos realizar los cálculos correctos para luego ser empleados en laboratorios.
+Utilizar correctamente la formula de la ley de Ohm y emplear de manera correcta las unidades para obtener los resultados correctos.
+Identificar los problemaas que puedan existir en un circuito y emplear el mpetodo APM.
+Identificar la relación que existe entre la potencia y la energía en un circuito eléctrico.
+Emplear correctamente la fórmula de potencia y encotra los cálculos correctos, de esta manera utilizar correctamnete los implemetos en los circuitos eléctricos.
 
 MARCO TEÓRICO (RESUMEN)
 
@@ -129,11 +133,12 @@ Utilizaría uno de 12W y de esta manera cubriría el margen de seguridad
 
 VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
+https://youtu.be/ZJ9VH2XH9rU
 
 CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+Se logró identificar correctamente el uso de la fórmula de la ley de Ohm para encontrar los valores de corriente, voltje y resistencia, asi como emplear las unidades correctas, permitiendonos de este modo encontrar los cálculos correctos para nuestro circuitos eléctricos.
+También se aprendió a utilizar la fórmula de la potencia y conocer sus conceptos.
 
 BIBLIOGRAFÍA
 
