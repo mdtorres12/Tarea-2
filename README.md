@@ -28,6 +28,7 @@ R=1580 Ω
 *11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
 ![image](https://user-images.githubusercontent.com/116812951/202552672-9f110893-560f-4525-938e-ff25eec24ee6.png)
 13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+
 (a) 1 Ω
 ![image](https://user-images.githubusercontent.com/116812951/202552719-67d54e6a-d63b-4ff1-a406-6893455bfab0.png)
 (b) 5 Ω
